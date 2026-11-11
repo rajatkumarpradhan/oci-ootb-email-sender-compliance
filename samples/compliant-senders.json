@@ -1,0 +1,7 @@
+{
+  "senders": [
+    {"email": "alerts@shop.example", "approved": true, "spf": true, "dkim": true},
+    {"email": "news@shop.example", "approved": true, "spf": true, "dkim": true}
+  ],
+  "wiring": {"suppression_event_rule": true, "bounce_alarm": true}
+}
