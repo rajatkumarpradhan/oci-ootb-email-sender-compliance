@@ -1,0 +1,3 @@
+compartment_ocid        = "ocid1.compartment.oc1..example...replace-me"
+sender_domain           = "shop.example"
+notification_topic_ocid = "ocid1.onstopic.oc1..example...replace-me"
